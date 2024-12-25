@@ -11,7 +11,7 @@ Now you might be wondering, who in the world is Matthew? Forgive me for the late
 One day, a thought came across my mind. Given all the time he wears his Apple Watch, there must be a lot of data recorded in it. And sure enough, when I got him to export it, it was heaps! I had always been a fitness enthusiast, tracking calories in and out, taking notes of my workouts, but the one thing I never had was the consistency (patience) to wear my Apple Watch as much as Matthew does. And this was the start of it all.
 
 ## Documentation
-Using a free Apple Health XML to CSV converter (https://www.ericwolter.com/projects/apple-health-export/), I was able to safely convert and retrieve all the data. Once I had exported the data out of the Apple Health app, there were 30-40 datasets available. Some interesting ones I found were: 
+Using a free Apple Health XML to CSV converter (https://www.ericwolter.com/projects/apple-health-export/), I was able to safely convert and retrieve all the data. Once I had exported the data out of the Apple Health app, there were 30-40 datasets available, like: 
 - Height (irrelevant since Matthew is neither growing nor shrinking)
 - Body Mass (A good one to track, if only Matthew would..)
 - Oxygen Saturation (What how?)
@@ -24,4 +24,6 @@ The Apple Watch had data on all sorts of things, but I gathered the ones that I 
 - Walk Speed
 - Stand Time
 
-Matthew was not someone who often exercised, so I knew I couldn't make a fitness dashboard, but virtually all that the Apple Watch detected and collected were fitness related. The only times he would move a lot were at his job, Woolworths. He is a Team Member/Duty Manager, and was basically moving constantly during his shifts.
+Matthew was not someone who often exercised, so I did not want to make a fitness dashboard, but virtually all that the Apple Watch detected and collected were fitness related. The only times he would move a lot were at his job, Woolworths. He is a Team Member/Duty Manager, and was basically moving constantly during his shifts. So I decided to test whether Matthew's physical work was sufficient to replace an exercise routine.
+
+
